@@ -2,7 +2,7 @@
 
 > "working hard for my material desires"
 
-Liliw Laguna, Philippines  · 📧 kelsengile.dev@gmail.com · +63 9612289717
+Liliw Laguna, Philippines  · 📧 kelsengile.dev@gmail.com · +63 9612289717  
 [LinkedIn](https://www.linkedin.com/in/kelsen-gile-564b74299/) · [GitHub](https://github.com/kelsengile) · [LeetCode](https://leetcode.com/u/kelsengile/) · [Website](https://kelsengile) · [Instagram](https://www.instagram.com/kelsengile/) · [Youtube](https://www.youtube.com/@KelsenGile) · [TikTok](https://www.tiktok.com/@kelsengile)
 
 ---
