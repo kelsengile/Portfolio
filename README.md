@@ -14,11 +14,10 @@ Kelsen Giles portfolio website, This repository contains the source code for my 
 
 **Name:** Kelsen Gile Sarmieto Conel
 
+**Portfolio Website:** https://kelsengile.???
+
 **Email:** [kelsengile.dev@gmail.com](kelsengile,dev@gmail.com)
 
 **GitHub:** https://github.com/kelsengile
-
-**Portfolio Website:** https://kelsengile.???
-
 
 Thank you for visiting!
