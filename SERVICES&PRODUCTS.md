@@ -8,7 +8,16 @@ Availability: Open for new projects | Response time: Within 24 hours
 
 ## Services
 
+Custom Software Development
+Custom Creative Work
+Maintenance & Support
+Consulting
+
 ## Products
+
+Templates & Assets
+Software Products
+Creative Products
 
 ---
 
