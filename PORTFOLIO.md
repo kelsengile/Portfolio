@@ -44,8 +44,7 @@ Plaridel Integrated National High School · 2019 – 2025
 
 **Achievements & Awards:**
 
-**TheAmulet - Champion Project – Nov Fest 2025 Hackathon Competition** — Laguna State Polytecnic University (College of Computer Studies) — The Amulet is a Halloween-themed Game, Terminal based project developed during the Nov Fest 2025 Hackathon Competition, where it emerged as the Champion Project. Built by the team Caveman Coders, this project showcases creativity, technical skills, and innovation aligned with the spooky and mysterious theme of Halloween.
-
+**TheAmulet - Champion Project – Nov Fest 2025 Hackathon Competition** — LSPU (CCS) — A Halloween-themed terminal game built by Team Caveman Coders, TheAmulet took first place at LSPU CCS's Nov Fest 2025 Hackathon. Players take on a stranded traveler who stumbles into a fog-shrouded village after a wrong turn on a lonely road, navigating typewriter-style text, ASCII scene art, and branching choices as they explore abandoned houses to uncover the village's secret — culminating in a word-guessing puzzle to reveal the amulet before running out of guesses.
 
 ---
 
