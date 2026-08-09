@@ -1,6 +1,6 @@
 # SERVICES & PRODUCTS 
 
-Hello I'm Kelsen Gile, a Computer Science student  with a passion for building impactful software and crafting meaningful user experiences.
+Hello I'm Kelsen Gile, a Computer Science student  with a passion for building impactful software and crafting meaningful user experiences, and I’m continuously working to improve my skills as a developer.
 
 Availability: Open for new projects | Response time: Within 24 hours
 
