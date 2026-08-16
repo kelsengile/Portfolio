@@ -22,7 +22,7 @@ Software Products
 **Lets work together**
 
 Ready to get started? Reach out and let's talk about your project  
-kelsengile.dev@gmail.com · +63 9612289717  
+kelsengile.dev@gmail.com | +63 9612289717  
 
 # 
 
