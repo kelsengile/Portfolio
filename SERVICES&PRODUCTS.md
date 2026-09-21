@@ -27,4 +27,4 @@ kelsengile.dev@gmail.com | +63 9612289717
 
 # 
 
-*Last updated: August 2026*
+*Last updated: September 2026*
