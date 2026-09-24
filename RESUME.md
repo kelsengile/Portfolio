@@ -13,11 +13,9 @@ Currently pursuing a Bachelor’s Degree in Computer Science at Laguna State Pol
 
 **Specializations:**
 
-
 ---
 
 **Skills:**
-
 
 ---
 
@@ -28,22 +26,19 @@ Currently pursuing a Bachelor’s Degree in Computer Science at Laguna State Pol
 
 **Experience:**
 
+---
+
+**Certifications:**
 
 ---
 
 **Education:**
-
 
 **Bachelor of Science in Computer Science (BSCS)**  
 Laguna State Polytechnic University · 2025 – Present
 
 **Science, Technology, Engineering and Mathematics (STEM)**  
 Plaridel Integrated National High School · 2019 – 2025
-
----
-
-**Certifications:**
-
 
 ---
 
