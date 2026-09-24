@@ -11,6 +11,11 @@ Currently pursuing a Bachelor’s Degree in Computer Science at Laguna State Pol
 
 ---
 
+**Specializations:**
+
+
+---
+
 **Skills:**
 
 
