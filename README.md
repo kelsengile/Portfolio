@@ -12,7 +12,7 @@ Kelsen Giles portfolio website, This repository contains the source code for my 
 
 **Portfolio Website:** [kelsengile.???](https://kelsengile.???)
 
-**Email:** [kelsengile.dev@gmail.com]()
+**Email:** __kelsengile.dev@gmail.com__
 
 **GitHub:** [github.com/kelsengile](https://github.com/kelsengile)
 
