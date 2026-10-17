@@ -4,11 +4,11 @@ This is a personal portfolio project, but anyone who visits, contributes, or ope
 
 ---
 
-### Our Pledge
+### My Pledge
 
 We want participation in this project to be respectful, welcoming, and free of harassment for everyone, regardless of age, experience level, background, gender identity or expression, disability, ethnicity, nationality, religion, or appearance.
 
-### Our Values
+### My Values
 
 **Respect and Kindness**
 * Treat others the way you'd want to be treated, especially beginners.
