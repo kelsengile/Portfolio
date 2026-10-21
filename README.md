@@ -19,11 +19,7 @@ Welcome to my portfolio repository  :) :) :)
 
 Kelsen Giles portfolio website, This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experience in software development and design. It is built with a focus on clean design, responsiveness, and performance, and is continuously updated as I create and improve new work.
 
-**Portfolio: [kelsengile.???](https://kelsengile.???)**
-
-**Email:** __kelsengile.dev@gmail.com__
-
-**GitHub: [github.com/kelsengile](https://github.com/kelsengile)**
+[Portfolio](https://kelsengile.???) · [Email](kelsengile.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kelsen-gile-564b74299/) · [LeetCode](https://leetcode.com/u/kelsengile/) · [Instagram](https://www.instagram.com/kelsengile/) · [Youtube](https://www.youtube.com/@KelsenGile) · [TikTok](https://www.tiktok.com/@kelsengile)
 
 ---
 
