@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <a href="https://github.com/kelsengile/Portfolio">
+  <a href="https://kelsengile.???">
     <img src="source/assets/images/title.png" alt="Portfolio" height="70">
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 Kelsen Giles portfolio website, This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experience in software development and design. It is built with a focus on clean design, responsiveness, and performance, and is continuously updated as I create and improve new work.
 
-[Portfolio](https://kelsengile.???) · [Email](kelsengile.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kelsen-gile-564b74299/) · [LeetCode](https://leetcode.com/u/kelsengile/) · [Instagram](https://www.instagram.com/kelsengile/) · [Youtube](https://www.youtube.com/@KelsenGile) · [TikTok](https://www.tiktok.com/@kelsengile)
+[Email](kelsengile.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kelsen-gile-564b74299/) · [LeetCode](https://leetcode.com/u/kelsengile/) · [Instagram](https://www.instagram.com/kelsengile/) · [Youtube](https://www.youtube.com/@KelsenGile) · [TikTok](https://www.tiktok.com/@kelsengile)
 
 ---
 
