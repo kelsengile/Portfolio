@@ -38,4 +38,4 @@ Kelsen Giles portfolio website, This repository contains the source code for my 
 
 ---
 
-*Thanks for visiting! | Last updated: October 2026*
+*Thanks for visiting! | Last updated: November 2026*
