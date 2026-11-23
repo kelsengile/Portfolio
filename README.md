@@ -6,21 +6,26 @@
 </p>
 
 <p align="center">
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-</a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-</a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+  </a>
 
-<a href="https://vite.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-</a>
   <br>
   <a href="https://github.com/kelsengile/Portfolio" target="_blank">
     <img src="https://img.shields.io/github/stars/kelsengile/Portfolio?style=flat-square&label=Stars&color=111111&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMCAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwIDEtMS4wODgtLjc5bC43Mi00LjE5NEwuODE4IDYuMzc0YS43NS43NSAwIDAgMSAuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwIDEgOCAuMjVaIi8%2BPC9zdmc%2B" alt="GitHub Stars">
