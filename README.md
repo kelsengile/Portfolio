@@ -1,14 +1,16 @@
 <br>
 <p align="center">
   <a href="https://kelsengile.???">
-    <img src="source/assets/images/title.png" alt="Portfolio" height="70">
+    <img src="portfolio/source/assets/images/title.png" alt="Portfolio" height="70">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Markdown-111111?style=flat-square&logo=markdown&logoColor=FFFFFF" alt="Markdown">
-  </a>
+
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <br>
   <a href="https://github.com/kelsengile/Portfolio" target="_blank">
     <img src="https://img.shields.io/github/stars/kelsengile/Portfolio?style=flat-square&label=Stars&color=111111&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMCAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwIDEtMS4wODgtLjc5bC43Mi00LjE5NEwuODE4IDYuMzc0YS43NS43NSAwIDAgMSAuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwIDEgOCAuMjVaIi8%2BPC9zdmc%2B" alt="GitHub Stars">
@@ -25,7 +27,7 @@
 
 <p align="center">Welcome to my portfolio repository  :) :) :)</p>
 
-Kelsen Giles portfolio website, This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experience in software development and design. It is built with a focus on clean design, responsiveness, and performance, and is continuously updated as I create and improve new work.
+<p align="justify">Kelsen Giles portfolio website, This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experience in software development and design. It is built with a focus on clean design, responsiveness, and performance, and is continuously updated as I create and improve new work.</p>
 
 <p align="center">
   <a href="mailto:kelsengile.dev@gmail.com">Email</a> ·
@@ -38,4 +40,4 @@ Kelsen Giles portfolio website, This repository contains the source code for my 
 
 ---
 
-*Thanks for visiting! | Last updated: November 2026*
+*Thanks for visiting!*
